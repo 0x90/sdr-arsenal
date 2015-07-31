@@ -5,10 +5,15 @@ SDR tools and scripts
 ## SDR
 
  http://labs.inguardians.com/
+ 
  http://nutaq.com/en/blog/complete-model-based-pc-fpga-sdr-development-environment-gnu-radio
+ 
  http://funoverip.net/2014/07/gnu-radio-cc1111-packets-encoderdecoder-blocks/
+ 
  http://leetupload.com/blagosphere/index.php/2014/03/28/analyze-and-crack-gsm-downlink-with-a-usrp/
+ 
  http://g4akw.blogspot.ru/
+ 
  http://eliasoenal.com/
 
  http://www.kubonweb.de/?tag=rtl-sdr
