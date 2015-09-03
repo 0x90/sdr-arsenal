@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/polygon/spectrum_painter
+	branch = master
+	commit = f850f96e708e563102bb6a24e4926faf351244e2
+	parent = e5b4fe8cd5706383a8b754ffca161beb08f7f072
+	cmdver = 0.2.0
