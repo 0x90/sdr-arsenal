@@ -1,0 +1,6 @@
+[submodule "gr-ieee802-11"]
+	path = gr-ieee802-11
+	url = https://github.com/bastibl/gr-ieee802-11
+[submodule "radioplus"]
+	path = radioplus
+	url = https://github.com/aler86/radioplus
