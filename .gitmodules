@@ -4,3 +4,12 @@
 [submodule "radioplus"]
 	path = radioplus
 	url = https://github.com/aler86/radioplus
+[submodule "LTE-Cell-Scanner"]
+	path = LTE-Cell-Scanner
+	url = https://github.com/JiaoXianjun/LTE-Cell-Scanner
+[submodule "spectrum_painter"]
+	path = spectrum_painter
+	url = https://github.com/polygon/spectrum_painter
+[submodule "inspectrum"]
+	path = inspectrum
+	url = https://github.com/miek/inspectrum
