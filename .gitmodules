@@ -13,3 +13,39 @@
 [submodule "inspectrum"]
 	path = inspectrum
 	url = https://github.com/miek/inspectrum
+[submodule "rtl_433"]
+	path = rtl_433
+	url = https://github.com/merbanan/rtl_433
+[submodule "gr-ule"]
+	path = gr-ule
+	url = https://github.com/drmpeg/gr-ule
+[submodule "dspectrum"]
+	path = dspectrum
+	url = https://github.com/tresacton/dspectrum
+[submodule "rf-car"]
+	path = rf-car
+	url = https://github.com/rgerganov/rf-car
+[submodule "gr-lora"]
+	path = gr-lora
+	url = https://github.com/BastilleResearch/gr-lora
+[submodule "gr-nordic"]
+	path = gr-nordic
+	url = https://github.com/BastilleResearch/gr-nordic
+[submodule "gr-satellites"]
+	path = gr-satellites
+	url = https://github.com/daniestevez/gr-satellites
+[submodule "srsLTE"]
+	path = srsLTE
+	url = https://github.com/srsLTE/srsLTE
+[submodule "srsue"]
+	path = srsue
+	url = https://github.com/srslte/srsue
+[submodule "gr-keyfob"]
+	path = gr-keyfob
+	url = https://github.com/bastibl/gr-keyfob
+[submodule "gr-lte"]
+	path = gr-lte
+	url = https://github.com/kit-cel/gr-lte
+[submodule "CubicSDR"]
+	path = CubicSDR
+	url = https://github.com/cjcliffe/CubicSDR
