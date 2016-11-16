@@ -49,3 +49,6 @@
 [submodule "CubicSDR"]
 	path = CubicSDR
 	url = https://github.com/cjcliffe/CubicSDR
+[submodule "dingdong"]
+	path = dingdong
+	url = https://github.com/tresacton/dingdong
