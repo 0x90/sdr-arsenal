@@ -52,3 +52,6 @@
 [submodule "dingdong"]
 	path = dingdong
 	url = https://github.com/tresacton/dingdong
+[submodule "waveconverter"]
+	path = waveconverter
+	url = https://github.com/paulgclark/waveconverter
