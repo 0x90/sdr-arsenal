@@ -58,3 +58,6 @@
 [submodule "kalibrate-hackrf"]
 	path = kalibrate-hackrf
 	url = https://github.com/scateu/kalibrate-hackrf
+[submodule "gr-amps"]
+	path = gr-amps
+	url = https://github.com/unsynchronized/gr-amps
