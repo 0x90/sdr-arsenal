@@ -55,3 +55,6 @@
 [submodule "waveconverter"]
 	path = waveconverter
 	url = https://github.com/paulgclark/waveconverter
+[submodule "kalibrate-hackrf"]
+	path = kalibrate-hackrf
+	url = https://github.com/scateu/kalibrate-hackrf
