@@ -61,3 +61,9 @@
 [submodule "gr-amps"]
 	path = gr-amps
 	url = https://github.com/unsynchronized/gr-amps
+[submodule "topguw2"]
+	path = topguw2
+	url = https://github.com/bastienjalbert/topguw2
+[submodule "topguw"]
+	path = topguw
+	url = https://github.com/bastienjalbert/topguw
