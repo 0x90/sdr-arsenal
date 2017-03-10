@@ -67,3 +67,6 @@
 [submodule "topguw"]
 	path = topguw
 	url = https://github.com/bastienjalbert/topguw
+[submodule "urh"]
+	path = urh
+	url = https://github.com/jopohl/urh
