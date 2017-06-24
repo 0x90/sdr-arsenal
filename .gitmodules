@@ -70,3 +70,9 @@
 [submodule "urh"]
 	path = urh
 	url = https://github.com/jopohl/urh
+[submodule "gr-dect2"]
+	path = gr-dect2
+	url = https://github.com/pavelyazev/gr-dect2
+[submodule "re-DECTed"]
+	path = re-DECTed
+	url = https://github.com/znuh/re-DECTed
