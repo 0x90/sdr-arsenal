@@ -76,3 +76,24 @@
 [submodule "re-DECTed"]
 	path = re-DECTed
 	url = https://github.com/znuh/re-DECTed
+[submodule "qspectrumanalyzer"]
+	path = qspectrumanalyzer
+	url = https://github.com/xmikos/qspectrumanalyzer
+[submodule "srsUE"]
+	path = srsUE
+	url = https://github.com/srsLTE/srsUE
+[submodule "volk"]
+	path = volk
+	url = https://github.com/gnuradio/volk
+[submodule "openbts"]
+	path = openbts
+	url = https://github.com/RangeNetworks/openbts
+[submodule "liquid-dsp"]
+	path = liquid-dsp
+	url = https://github.com/jgaeddert/liquid-dsp
+[submodule "shinysdr"]
+	path = shinysdr
+	url = https://github.com/kpreid/shinysdr
+[submodule "gqrx"]
+	path = gqrx
+	url = https://github.com/csete/gqrx
