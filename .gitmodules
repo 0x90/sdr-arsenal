@@ -97,3 +97,6 @@
 [submodule "gqrx"]
 	path = gqrx
 	url = https://github.com/csete/gqrx
+[submodule "gps-sdr-sim"]
+	path = gps-sdr-sim
+	url = https://github.com/osqzss/gps-sdr-sim
