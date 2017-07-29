@@ -100,3 +100,21 @@
 [submodule "gps-sdr-sim"]
 	path = gps-sdr-sim
 	url = https://github.com/osqzss/gps-sdr-sim
+[submodule "sdrangel"]
+	path = sdrangel
+	url = https://github.com/f4exb/sdrangel
+[submodule "luaradio"]
+	path = luaradio
+	url = https://github.com/vsergeev/luaradio
+[submodule "IMSI-catcher"]
+	path = IMSI-catcher
+	url = https://github.com/Oros42/IMSI-catcher
+[submodule "RTLSDR-Scanner"]
+	path = RTLSDR-Scanner
+	url = https://github.com/EarToEarOak/RTLSDR-Scanner
+[submodule "E012-SDR-transmitter"]
+	path = E012-SDR-transmitter
+	url = https://github.com/goebish/E012-SDR-transmitter
+[submodule "dspectrumgui"]
+	path = dspectrumgui
+	url = https://github.com/tresacton/dspectrumgui
