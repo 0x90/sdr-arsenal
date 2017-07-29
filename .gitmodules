@@ -118,3 +118,6 @@
 [submodule "dspectrumgui"]
 	path = dspectrumgui
 	url = https://github.com/tresacton/dspectrumgui
+[submodule "hacktv"]
+	path = hacktv
+	url = https://github.com/fsphil/hacktv
