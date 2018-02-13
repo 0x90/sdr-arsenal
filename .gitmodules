@@ -34,9 +34,6 @@
 [submodule "srsLTE"]
 	path = srsLTE
 	url = https://github.com/srsLTE/srsLTE
-[submodule "srsue"]
-	path = srsue
-	url = https://github.com/srslte/srsue
 [submodule "gr-keyfob"]
 	path = gr-keyfob
 	url = https://github.com/bastibl/gr-keyfob
@@ -76,9 +73,6 @@
 [submodule "qspectrumanalyzer"]
 	path = qspectrumanalyzer
 	url = https://github.com/xmikos/qspectrumanalyzer
-[submodule "srsUE"]
-	path = srsUE
-	url = https://github.com/srsLTE/srsUE
 [submodule "volk"]
 	path = volk
 	url = https://github.com/gnuradio/volk
