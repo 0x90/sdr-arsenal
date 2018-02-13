@@ -121,3 +121,6 @@
 [submodule "hacktv"]
 	path = hacktv
 	url = https://github.com/fsphil/hacktv
+[submodule "spectool-web"]
+	path = spectool-web
+	url = https://github.com/acg/spectool-web
