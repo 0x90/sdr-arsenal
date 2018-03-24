@@ -115,3 +115,6 @@
 [submodule "spectool-web"]
 	path = spectool-web
 	url = https://github.com/acg/spectool-web
+[submodule "sdrtrunk"]
+	path = sdrtrunk
+	url = https://github.com/DSheirer/sdrtrunk
