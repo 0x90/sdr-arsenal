@@ -268,3 +268,6 @@
 [submodule "ScratchRadio"]
 	path = ScratchRadio
 	url = https://github.com/myriadrf/ScratchRadio
+[submodule "gr-cbmc"]
+	path = gr-cbmc
+	url = https://github.com/kit-cel/gr-cbmc
