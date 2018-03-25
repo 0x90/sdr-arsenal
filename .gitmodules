@@ -118,3 +118,153 @@
 [submodule "sdrtrunk"]
 	path = sdrtrunk
 	url = https://github.com/DSheirer/sdrtrunk
+[submodule "sdrdaemon"]
+	path = sdrdaemon
+	url = https://github.com/f4exb/sdrdaemon
+[submodule "dsdcc"]
+	path = dsdcc
+	url = https://github.com/f4exb/dsdcc
+[submodule "leansdr"]
+	path = leansdr
+	url = https://github.com/pabr/leansdr
+[submodule "scopy"]
+	path = scopy
+	url = https://github.com/analogdevicesinc/scopy
+[submodule "gr-devsync"]
+	path = gr-devsync
+	url = https://github.com/GVardakis/gr-devsync
+[submodule "gr-phasma"]
+	path = gr-phasma
+	url = https://github.com/ctriant/gr-phasma
+[submodule "gr-ntsc-rc"]
+	path = gr-ntsc-rc
+	url = https://github.com/lscardoso/gr-ntsc-rc
+[submodule "wavefinder"]
+	path = wavefinder
+	url = https://github.com/paulgclark/wavefinder
+[submodule "rf_utilities"]
+	path = rf_utilities
+	url = https://github.com/paulgclark/rf_utilities
+[submodule "rtlsdr-433m-sensor"]
+	path = rtlsdr-433m-sensor
+	url = https://github.com/kevinmehall/rtlsdr-433m-sensor
+[submodule "soapy_power"]
+	path = soapy_power
+	url = https://github.com/xmikos/soapy_power
+[submodule "SDR-Detector"]
+	path = SDR-Detector
+	url = https://github.com/He3556/SDR-Detector
+[submodule "rtl-wmbus"]
+	path = rtl-wmbus
+	url = https://github.com/xaelsouth/rtl-wmbus
+[submodule "simplesoapy"]
+	path = simplesoapy
+	url = https://github.com/xmikos/simplesoapy
+[submodule "Salamandra"]
+	path = Salamandra
+	url = https://github.com/eldraco/Salamandra
+[submodule "tsl-sdr"]
+	path = tsl-sdr
+	url = https://github.com/pvachon/tsl-sdr
+[submodule "gps"]
+	path = gps
+	url = https://github.com/psas/gps
+[submodule "LoRa-SDR"]
+	path = LoRa-SDR
+	url = https://github.com/myriadrf/LoRa-SDR
+[submodule "pyrasdr"]
+	path = pyrasdr
+	url = https://github.com/bvacaliuc/pyrasdr
+[submodule "pysdr"]
+	path = pysdr
+	url = https://github.com/pysdr/pysdr
+[submodule "RFSec-ToolKit"]
+	path = RFSec-ToolKit
+	url = https://github.com/cn0xroot/RFSec-ToolKit
+[submodule "ADSB-Out"]
+	path = ADSB-Out
+	url = https://github.com/lyusupov/ADSB-Out
+[submodule "waveSDR"]
+	path = waveSDR
+	url = https://github.com/getoffmyhack/waveSDR
+[submodule "gqrx-scanner"]
+	path = gqrx-scanner
+	url = https://github.com/neural75/gqrx-scanner
+[submodule "fm-rds"]
+	path = fm-rds
+	url = https://github.com/alexmrqt/fm-rds
+[submodule "gr-replay"]
+	path = gr-replay
+	url = https://github.com/cn0xroot/gr-replay
+[submodule "rtl433_influx"]
+	path = rtl433_influx
+	url = https://github.com/azrdev/rtl433_influx
+[submodule "HamLTE"]
+	path = HamLTE
+	url = https://github.com/mmtorni/HamLTE
+[submodule "gr-pothos"]
+	path = gr-pothos
+	url = https://github.com/pothosware/gr-pothos
+[submodule "HackRF-CUDA-Bluetooth-Sniffer"]
+	path = HackRF-CUDA-Bluetooth-Sniffer
+	url = https://github.com/estradjm/HackRF-CUDA-Bluetooth-Sniffer
+[submodule "urh-cc1101_FEC_encode_decode_plugin"]
+	path = urh-cc1101_FEC_encode_decode_plugin
+	url = https://github.com/SpaceTeddy/urh-cc1101_FEC_encode_decode_plugin
+[submodule "iqtool"]
+	path = iqtool
+	url = https://github.com/jgibbard/iqtool
+[submodule "RF-List"]
+	path = RF-List
+	url = https://github.com/mgp25/RF-List
+[submodule "NRF24-demodulator"]
+	path = NRF24-demodulator
+	url = https://github.com/roboremo/NRF24-demodulator
+[submodule "pygqrx"]
+	path = pygqrx
+	url = https://github.com/alexf91/pygqrx
+[submodule "signals"]
+	path = signals
+	url = https://github.com/filipsPL/signals
+[submodule "limesdr_installer"]
+	path = limesdr_installer
+	url = https://github.com/mriosrivas/limesdr_installer
+[submodule "limetool"]
+	path = limetool
+	url = https://github.com/F5OEO/limetool
+[submodule "LimeQt"]
+	path = LimeQt
+	url = https://github.com/spr02/LimeQt
+[submodule "nrf24l01-signal"]
+	path = nrf24l01-signal
+	url = https://github.com/afiskon/nrf24l01-signal
+[submodule "tumblerf"]
+	path = tumblerf
+	url = https://github.com/riverloopsec/tumblerf
+[submodule "LimeSDR-GSM-Dockerized"]
+	path = LimeSDR-GSM-Dockerized
+	url = https://github.com/emilf/LimeSDR-GSM-Dockerized
+[submodule "LimeGPS"]
+	path = LimeGPS
+	url = https://github.com/osqzss/LimeGPS
+[submodule "openairinterface5g"]
+	path = openairinterface5g
+	url = https://github.com/wynter-wang/openairinterface5g
+[submodule "ar-lte"]
+	path = ar-lte
+	url = https://github.com/eshikafe/ar-lte
+[submodule "OpenUSRP"]
+	path = OpenUSRP
+	url = https://github.com/jocover/OpenUSRP
+[submodule "DatvExpressTransmitter"]
+	path = DatvExpressTransmitter
+	url = https://github.com/G4GUO/DatvExpressTransmitter
+[submodule "cnn-rtlsdr"]
+	path = cnn-rtlsdr
+	url = https://github.com/randaller/cnn-rtlsdr
+[submodule "pyLMS7002M"]
+	path = pyLMS7002M
+	url = https://github.com/myriadrf/pyLMS7002M
+[submodule "ScratchRadio"]
+	path = ScratchRadio
+	url = https://github.com/myriadrf/ScratchRadio
