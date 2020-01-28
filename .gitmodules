@@ -271,3 +271,30 @@
 [submodule "gr-cbmc"]
 	path = gr-cbmc
 	url = https://github.com/kit-cel/gr-cbmc
+[submodule "sigplot"]
+	path = sigplot
+	url = https://github.com/LGSInnovations/sigplot
+[submodule "RF-Monitor"]
+	path = RF-Monitor
+	url = https://github.com/EarToEarOak/RF-Monitor
+[submodule "ooktools"]
+	path = ooktools
+	url = https://github.com/leonjza/ooktools
+[submodule "SigDigger"]
+	path = SigDigger
+	url = https://github.com/BatchDrake/SigDigger
+[submodule "RTLion"]
+	path = RTLion
+	url = https://github.com/RTLion-Framework/RTLion
+[submodule "deinvert"]
+	path = deinvert
+	url = https://github.com/windytan/deinvert
+[submodule "gr-rds"]
+	path = gr-rds
+	url = https://github.com/bastibl/gr-rds
+[submodule "TempestSDR"]
+	path = TempestSDR
+	url = https://github.com/martinmarinov/TempestSDR
+[submodule "ModulationPy"]
+	path = ModulationPy
+	url = https://github.com/kirlf/ModulationPy
