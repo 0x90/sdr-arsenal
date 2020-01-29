@@ -298,3 +298,6 @@
 [submodule "ModulationPy"]
 	path = ModulationPy
 	url = https://github.com/kirlf/ModulationPy
+[submodule "BTLE"]
+	path = BTLE
+	url = https://github.com/JiaoXianjun/BTLE
